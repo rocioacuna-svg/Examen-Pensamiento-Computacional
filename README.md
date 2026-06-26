@@ -44,6 +44,7 @@ El proyecto utiliza imágenes, sonido y video para crear una experiencia inmersi
 (La mayoria de las imagenes las saque de videos de youtube)
 
  [link]https://www.youtube.com/watch?v=p-eGJlvw7r8
+ 
 **Descripción conceptual :**
 Crear una experiencia donde el jugador deba reaccionar rápidamente para eliminar un objetivo antes de que termine el tiempo, utilizando una estética inspirada en el terror y los videojuegos arcade.
 
@@ -135,7 +136,7 @@ Función:
 Entregar retroalimentación auditiva e incrementar la tensión.
 
 **Video**
-
+video/ganar.mp4
  [Ver video](videos/ganar.mp4)
 Animación de victoria.
 
