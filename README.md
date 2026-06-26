@@ -1,7 +1,7 @@
 # Escena interactiva de Killer Klowns From Outer Space (1988)
 ## Autor: Rocio Acuña Sanchez
 
-![Mi imagen](imagenes/foto.png)
+![Captura de pantalla (118).png](imagenes/foto.png)
 
 Este mini juego interactivo desarrollado en p5.js donde el jugador debe eliminar a un payaso antes de que se acabe el tiempo (20 segundos).
 El objetivo es dispararle únicamente en la cabeza mientras el personaje se mueve constantemente por la pantalla.
