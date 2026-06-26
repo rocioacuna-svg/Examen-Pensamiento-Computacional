@@ -154,6 +154,7 @@ este dibujo lo hice la clase antes el examen solo para no olvidaarme de lo que q
 
 
 **Capturas del proceso**
+[![Ver video](imagenes/ganar.webp)](videos/video1.mov)
 
 [Abrir video](videos/video1.mov)
 ![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(124).png)
