@@ -3,6 +3,7 @@
 ## Autor: Rocio Acuña Sanchez
 
 ![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(118).png)
+![Pantalla de inicio](imagenes/poster.jpg)
 
 Este mini juego interactivo desarrollado en p5.js donde el jugador debe eliminar a un payaso extraterrestre antes de que se acabe el tiempo (20 segundos).
 El objetivo es dispararle únicamente en la cabeza mientras el personaje se mueve constantemente por la pantalla.
@@ -153,8 +154,9 @@ Recompensar al jugador cuando gana.
 ![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(124).png)
 
 ![Pantalla del juego](imagenes/Captura%20de%20pantalla%20(125).png)
+estos errores los logre solucionar con la ia de chatgpt
 
-## Codigos que mas me cuestan entender 
+## Codigos que mas me cuestan entender aun
 for (let i = 0; i < 120; i++) {
 
 Significa:
