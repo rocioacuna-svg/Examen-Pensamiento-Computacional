@@ -41,6 +41,7 @@ El proyecto utiliza imágenes, sonido y video para crear una experiencia inmersi
 - Video de victoria.
 - Cambio entre pantallas.
 - Temporizador.
+- 
 (La mayoria de las imagenes las saque de videos de youtube)
 
  https://www.youtube.com/watch?v=p-eGJlvw7r8
@@ -136,6 +137,7 @@ Función:
 Entregar retroalimentación auditiva e incrementar la tensión.
 
 **Video**
+no me dejo reproducir 
 [![Ver video]](videos/ganar.mp4)
 
 Función:
