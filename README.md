@@ -1,4 +1,4 @@
-# Escena interactiva de Killer Klowns From Outer Space (1988)
+# Escena / Juego interactivo inspirado en la pelicula Killer Klowns From Outer Space (1988)
 ## Autor: Rocio Acuña Sanchez
 
 ![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(118).png)
