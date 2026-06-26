@@ -1,5 +1,6 @@
 # Escena interactiva de Killer Klowns From Outer Space (1988)
 ## Autor: Rocio Acuña Sanchez
+
 Este mini juego interactivo desarrollado en p5.js donde el jugador debe eliminar a un payaso antes de que se acabe el tiempo (20 segundos).
 El objetivo es dispararle únicamente en la cabeza mientras el personaje se mueve constantemente por la pantalla.
 
@@ -42,11 +43,9 @@ Es un videojuego interactivo desarrollado en p5.js.
 - Temporizador.
   
 **Descripción conceptual**
-
 Crear una experiencia donde el jugador deba reaccionar rápidamente para eliminar un objetivo antes de que termine el tiempo, utilizando una estética inspirada en el terror y los videojuegos arcade.
 
 **Corriente o referente**
-
 Diseño de videojuegos.
 
 **Referentes visuales**
@@ -56,10 +55,9 @@ Estética de circos oscuros.
 Interfaces minimalistas de videojuegos.
 
 **Principio de diseño explorado**
-
 Interactividad mediante estados, retroalimentación audiovisual y respuesta inmediata a las acciones del usuario.
 
-##Sistema computacional##
+## Sistema computacional ##
 
 **Inputs**
 Posición del mouse.
@@ -95,17 +93,14 @@ Sonidos.
 Video.
 Mensajes de victoria y derrota.
 
-## Explicación de la interacción##
-
+## Explicación de la interacción ##
 El usuario inicia el juego con un clic.
-
 Luego controla una mira utilizando el mouse y debe disparar únicamente a la cabeza del payaso antes de que el temporizador llegue a cero.
-
 Si acierta, se reproduce un video de victoria y posteriormente aparece la pantalla final con un mensaje de "YOU WIN".
-
 Si el tiempo termina antes de lograr el objetivo, aparece la pantalla de "GAME OVER".
 
-## Recursos multimedia##
+## Recursos multimedia ##
+
 **Imágenes**
 Pantalla de inicio.
 Fondo del juego.
@@ -129,7 +124,7 @@ Animación de victoria.
 Función:
 Recompensar al jugador cuando gana.
 
-## Registro visual##
+## Registro visual ##
 **Referentes**
 
 (Inserta aquí imágenes de referencia.)
@@ -146,7 +141,7 @@ Recompensar al jugador cuando gana.
 
 (Agrega capturas del desarrollo.)
 
-## Reflexión final##
+## Reflexión final ##
 
 Durante el desarrollo aprendí a utilizar variables, funciones, estados, eventos, multimedia y estructuras propias de p5.js para construir un sistema interactivo más complejo.
 
