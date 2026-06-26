@@ -167,7 +167,7 @@ i++ → al terminar cada repetición, i aumenta en 1.
 Entonces el código se ejecuta 120 veces.
 
  // Crear el video de ganar
-  videoWin = createVideo(["ganar.mp4"]);
+videoWin = createVideo("video/ganar.mp4");
 
 if (videoWin) {
   videoWin.size(width, height);
