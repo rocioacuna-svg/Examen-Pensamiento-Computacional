@@ -102,15 +102,20 @@ Si el tiempo termina antes de lograr el objetivo, aparece la pantalla de "GAME O
 ### Imágenes
 
 [Pantalla inicio](imagenes/Captura%20de%20pantalla%20(118).png)
+
 [Fondo](imagenes/Captura%20de%20pantalla%20(126).png)
+
 [Payaso](imagenes/payaso.png)
+
 [Mira](imagenes/mira-Photoroom.png)
+
 [Fondo final](imagenes/ganar.webp)
-Pantalla de inicio.
-Fondo del juego.
-Fondo de victoria.
-Payaso.
-Mira.
+
+- Pantalla de inicio.
+- Fondo del juego.
+- Fondo de victoria.
+- Payaso.
+- Mira.
 
 Función:
 Construyen la identidad visual del juego.
@@ -135,16 +140,11 @@ Recompensar al jugador cuando gana.
 
 ## Registro visual ##
 **Referentes**
-
-(Inserta aquí imágenes de referencia.)
+![referencia](imagenes/referencia.avif)
 
 **Bocetos**
 
-(Agrega tus bocetos.)
-
-**Iteraciones**
-
-(Coloca capturas de distintas versiones del proyecto.)
+(Agrega tus bocetos.
 
 **Capturas del proceso**
 
