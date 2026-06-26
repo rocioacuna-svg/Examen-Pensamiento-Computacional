@@ -19,6 +19,7 @@ Es un videojuego interactivo desarrollado en p5.js.
 - Pantalla de Game Over.
 - Video de victoria.
 - Pantalla final con "YOU WIN".
+  
 **Elementos visuales**
 - Imagen de inicio.
 - Imagen de fondo.
@@ -27,9 +28,11 @@ Es un videojuego interactivo desarrollado en p5.js.
 - Estrellas animadas.
 - Texto animado.
 - Video final.
+
 **Inputs**
 - Movimiento del mouse.
 - Click izquierdo del mouse.
+  
 **Outputs**
  Movimiento del payaso.
 - Movimiento de la mira.
@@ -37,6 +40,7 @@ Es un videojuego interactivo desarrollado en p5.js.
 - Video de victoria.
 - Cambio entre pantallas.
 - Temporizador.
+  
 **Descripción conceptual**
 
 Crear una experiencia donde el jugador deba reaccionar rápidamente para eliminar un objetivo antes de que termine el tiempo, utilizando una estética inspirada en el terror y los videojuegos arcade.
