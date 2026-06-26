@@ -272,4 +272,4 @@ Aunque aun me cuestan entender principalmente cuando hay muchos valores.
 
 Repositorio GitHub:
 
-(Pega aquí el link)
+[link](https://github.com/rocioacuna-svg/Examen-Pensamiento-Computacional)
