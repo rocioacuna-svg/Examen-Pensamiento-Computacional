@@ -2,12 +2,13 @@
 ## Escena / Juego interactivo inspirado en la pelicula Killer Klowns From Outer Space (1988)
 ## Autor: Rocio Acuña Sanchez
 
+Este mini juego interactivo desarrollado en p5.js donde el jugador debe eliminar a un payaso extraterrestre antes de que se acabe el tiempo (20 segundos).
+El objetivo es dispararle únicamente en la cabeza mientras el personaje se mueve constantemente por la pantalla.
+
 ![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(118).png)
 ![Pantalla de inicio](imagenes/poster.jpg)
 ![Pantalla de inicio](imagenes/payasos.jpg)
 
-Este mini juego interactivo desarrollado en p5.js donde el jugador debe eliminar a un payaso extraterrestre antes de que se acabe el tiempo (20 segundos).
-El objetivo es dispararle únicamente en la cabeza mientras el personaje se mueve constantemente por la pantalla.
 
 El proyecto utiliza imágenes, sonido y video para crear una experiencia inmersiva inspirada en el diseño de videojuegos de terror y supervivencia
 
