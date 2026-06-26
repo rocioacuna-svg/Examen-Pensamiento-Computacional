@@ -141,23 +141,115 @@ Recompensar al jugador cuando gana.
 
 (Agrega capturas del desarrollo.)
 
+**Codigos que mas me cuestan entender**
+for (let i = 0; i < 120; i++) {
+
+Significa:
+let i = 0; → crea una variable llamada i y empieza en 0.
+i < 120; → mientras i sea menor que 120, el código se seguirá repitiendo.
+i++ → al terminar cada repetición, i aumenta en 1.
+Entonces el código se ejecuta 120 veces.
+
+ // Crear el video de ganar
+  videoWin = createVideo(["ganar.mp4"]);
+
+if (videoWin) {
+  videoWin.size(width, height);
+  videoWin.position(0, 0);
+  
+  // oculta el video hasta que el jugador gane
+  videoWin.hide();
+  videoWin.volume(1); 
+  
+  //Detecta cuándo finaliza el video para ejecutar otras acciones
+  videoWin.onended(function(){
+    
+  // oculta el video después de reproducirse
+  videoWin.hide();
+
+  // Cambia el estado del programa para indicar que el video terminó y mostrar la pantalla final
+  finVideo = true;
+    
+//Cierra la función que se ejecuta cuando termina el video.
+});
+}
+}
+
+Este bloque configura el video. Primero le da el tamaño de la pantalla, lo posiciona, lo mantiene oculto y define su volumen. Luego, cuando el jugador gana, el video se reproduce. Al terminar, el programa lo oculta y cambia el estado mediante la variable finVideo para mostrar la pantalla final con el mensaje 'YOU WIN'
+
+if (clownX > width - 120 || clownX < 120) {
+    speedX *= -1;
+}
+¿Qué hace?
+
+Comprueba si el payaso llegó al borde izquierdo o derecho.
+
+width - 120 → borde derecho.
+120 → borde izquierdo.
+|| significa "o".
+
+Si ocurre cualquiera de las dos condiciones:
+
+speedX *= -1;
+
+cambia el signo de la velocidad.
+
+Ejemplo:
+
+18 → -18
+
+-18 → 18
+
+Así el payaso rebota.
+
+if (millis() - tiempoInicio < 3000) {
+¿Qué hace?
+
+Comprueba si han pasado menos de 3000 milisegundos, es decir, 3 segundos, desde que comenzó el juego.
+
+Mientras eso sea verdadero, se muestra el mensaje de ayuda.
+
+tiempoRestante = 20 - floor((millis() - tiempoInicio) / 1000);
+¿Qué hace?
+
+Calcula cuánto tiempo queda.
+
+millis() → dice cuántos milisegundos han pasado desde que empezó el programa.
+tiempoInicio → guarda el momento en que comenzó el juego.
+millis() - tiempoInicio → calcula cuánto tiempo ha pasado desde que empezó el juego.
+/1000 → convierte milisegundos a segundos.
+floor() → elimina los decimales.
+20 - ... → resta esos segundos a los 20 segundos iniciales.
+
+Por eso el contador baja de 20 → 19 → 18... hasta llegar a 0.
+
+let tam = 80 + sin(frameCount * 0.15) * 10;
+¿Qué hace?
+
+Crea una variable llamada tam que hace que el texto cambie de tamaño continuamente.
+
+80 → tamaño normal.
+sin() → hace el movimiento suave.
+frameCount → cuenta los fotogramas.
+*10 → cuánto aumenta y disminuye.
+
+
 ## Reflexión final ##
 
-Durante el desarrollo aprendí a utilizar variables, funciones, estados, eventos, multimedia y estructuras propias de p5.js para construir un sistema interactivo más complejo.
-
-Mi principal dificultad fue integrar correctamente el video con los distintos estados del juego y coordinar la interacción entre imágenes, sonidos y temporizador.
-
-Este proyecto me permitió comprender mejor cómo organizar un programa utilizando funciones y cómo construir una experiencia interactiva completa.
+Durante el desarrollo aprendí a utilizar variables, funciones, estados, eventos, multimedia y estructuras propias de p5.js para construir un sistema interactivo más complejo
+Mi principal dificultad fue integrar correctamente el video con los distintos estados del juego y coordinar la interacción entre imágenes, sonidos y temporizador
+Este proyecto me permitió comprender mejor cómo organizar un programa utilizando funciones y cómo construir una experiencia interactiva completa,
+Aunque aun me cuestan entender principalmente cuando hay muchos valores.
 
 ## Enlaces ##
 
 **Proyecto p5.js (ejecutable):**
 
-(Pega aquí el link)
+[link](https://editor.p5js.org/rocio.acuna/full/ELc6Pxo-L)
 
 **Código editable:**
 
-(Pega aquí el link)
+[link](https://editor.p5js.org/rocio.acuna/sketches/ELc6Pxo-L)
 
 Repositorio GitHub:
 
