@@ -60,10 +60,12 @@ Interfaces minimalistas de videojuegos.
 Interactividad mediante estados, retroalimentación audiovisual y respuesta inmediata a las acciones del usuario.
 
 ##Sistema computacional##
+
 **Inputs**
 Posición del mouse.
 Click del mouse.
 Tiempo transcurrido.
+
 **Procesos**
 Movimiento del payaso.
 Detección de impactos.
@@ -93,7 +95,7 @@ Sonidos.
 Video.
 Mensajes de victoria y derrota.
 
-##Explicación de la interacción##
+## Explicación de la interacción##
 
 El usuario inicia el juego con un clic.
 
@@ -103,7 +105,7 @@ Si acierta, se reproduce un video de victoria y posteriormente aparece la pantal
 
 Si el tiempo termina antes de lograr el objetivo, aparece la pantalla de "GAME OVER".
 
-##Recursos multimedia##
+## Recursos multimedia##
 **Imágenes**
 Pantalla de inicio.
 Fondo del juego.
@@ -127,7 +129,7 @@ Animación de victoria.
 Función:
 Recompensar al jugador cuando gana.
 
-##Registro visual##
+## Registro visual##
 **Referentes**
 
 (Inserta aquí imágenes de referencia.)
@@ -144,7 +146,7 @@ Recompensar al jugador cuando gana.
 
 (Agrega capturas del desarrollo.)
 
-##Reflexión final##
+## Reflexión final##
 
 Durante el desarrollo aprendí a utilizar variables, funciones, estados, eventos, multimedia y estructuras propias de p5.js para construir un sistema interactivo más complejo.
 
