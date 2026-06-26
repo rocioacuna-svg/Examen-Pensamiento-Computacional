@@ -42,19 +42,19 @@ Es un videojuego interactivo desarrollado en p5.js.
 - Cambio entre pantallas.
 - Temporizador.
   
-**Descripción conceptual**
+**Descripción conceptual :**
 Crear una experiencia donde el jugador deba reaccionar rápidamente para eliminar un objetivo antes de que termine el tiempo, utilizando una estética inspirada en el terror y los videojuegos arcade.
 
-**Corriente o referente**
+**Corriente o referente :**
 Diseño de videojuegos.
 
-**Referentes visuales**
+**Referentes visuales :**
 Juegos arcade.
 Juegos de terror.
 Estética de circos oscuros.
 Interfaces minimalistas de videojuegos.
 
-**Principio de diseño explorado**
+**Principio de diseño explorado :**
 Interactividad mediante estados, retroalimentación audiovisual y respuesta inmediata a las acciones del usuario.
 
 ## Sistema computacional ##
@@ -102,6 +102,7 @@ Si el tiempo termina antes de lograr el objetivo, aparece la pantalla de "GAME O
 ## Recursos multimedia ##
 
 **Imágenes**
+
 Pantalla de inicio.
 Fondo del juego.
 Fondo de victoria.
@@ -112,6 +113,7 @@ Función:
 Construyen la identidad visual del juego.
 
 **Sonidos**
+
 Música de fondo.
 Sonido del disparo.
 
@@ -119,6 +121,7 @@ Función:
 Entregar retroalimentación auditiva e incrementar la tensión.
 
 **Video**
+
 Animación de victoria.
 
 Función:
