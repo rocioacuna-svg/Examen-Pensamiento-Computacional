@@ -116,7 +116,7 @@ Función:
 Construyen la identidad visual del juego.
 
 ### Audios
-- [Música de fondo](audio/cancion1.mp3)
+- [Música de fondo](audio/cancion2.mp3)
 - [Sonido de disparo](audio/disparo.mp3)
 
 
