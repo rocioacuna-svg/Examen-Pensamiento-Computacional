@@ -136,7 +136,7 @@ Función:
 Entregar retroalimentación auditiva e incrementar la tensión.
 
 **Video**
-[![Ver video](imagenes/ganar.webp)](videos/ganar.mp4)
+[![Ver video]](videos/ganar.mp4)
 
 Función:
 Recompensar al jugador cuando gana.
