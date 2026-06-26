@@ -119,7 +119,6 @@ Construyen la identidad visual del juego.
 - [Música de fondo](audio/cancion2.mp3)
 - [Sonido de disparo](audio/disparo.mp3)
 
-
 Música de fondo.
 Sonido del disparo.
 
@@ -128,6 +127,7 @@ Entregar retroalimentación auditiva e incrementar la tensión.
 
 **Video**
 
+[![Video de victoria](imagenes/ganar.webp)](video/ganar.mp4)
 Animación de victoria.
 
 Función:
