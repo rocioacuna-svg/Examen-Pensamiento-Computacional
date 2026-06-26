@@ -135,7 +135,7 @@ Función:
 Entregar retroalimentación auditiva e incrementar la tensión.
 
 **Video**
-![Video de victoria](ganar.mp4)
+[![Video de la victoria](imagenes/ganar.webp)](videos/ganar.mp4)
 Animación de victoria.
 
 Función:
