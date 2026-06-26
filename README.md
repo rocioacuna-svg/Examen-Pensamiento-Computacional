@@ -147,7 +147,7 @@ Recompensar al jugador cuando gana.
 ![referencia](imagenes/referencia.avif)
 
 **Boceto principal**
-
+este dibujo lo hice la clase antes el examen solo para no olvidaarme de lo que queria.
 ![boceto](imagenes/boceto.jpeg)
 
 
@@ -156,7 +156,7 @@ Recompensar al jugador cuando gana.
 ![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(124).png)
 
 ![Pantalla del juego](imagenes/Captura%20de%20pantalla%20(125).png)
-estos errores los logre solucionar con la ia de chatgpt
+estos errores los logre solucionar con la ia de chatgpt.
 
 ## Codigos que mas me cuestan entender aun
 for (let i = 0; i < 120; i++) {
@@ -257,6 +257,7 @@ Durante el desarrollo aprendí a utilizar variables, funciones, estados, eventos
 Mi principal dificultad fue integrar correctamente el video con los distintos estados del juego y coordinar la interacción entre imágenes, sonidos y temporizador
 Este proyecto me permitió comprender mejor cómo organizar un programa utilizando funciones y cómo construir una experiencia interactiva completa,
 Aunque aun me cuestan entender principalmente cuando hay muchos valores.
+Y quede con las ganas de poner el video final de game over del payaso riendose :(
 
 ## Diagrama
 
