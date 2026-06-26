@@ -143,9 +143,10 @@ Recompensar al jugador cuando gana.
 
 ![referencia](imagenes/referencia.avif)
 
-**Bocetos**
+**Boceto principal**
 
-(Agrega tus bocetos.
+![boceto](imagenes/boceto.jpeg)
+
 
 **Capturas del proceso**
 
