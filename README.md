@@ -140,6 +140,7 @@ Recompensar al jugador cuando gana.
 
 ## Registro visual ##
 **Referentes**
+
 ![referencia](imagenes/referencia.avif)
 
 **Bocetos**
@@ -147,10 +148,12 @@ Recompensar al jugador cuando gana.
 (Agrega tus bocetos.
 
 **Capturas del proceso**
+
 ![errores](imagenes/Captura de pantalla (124).png)
+
 ![errores](imagenes/Captura de pantalla (125).png)
 
-**Codigos que mas me cuestan entender**
+## Codigos que mas me cuestan entender 
 for (let i = 0; i < 120; i++) {
 
 Significa:
