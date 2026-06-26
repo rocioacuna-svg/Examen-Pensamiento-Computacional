@@ -99,8 +99,13 @@ Si el tiempo termina antes de lograr el objetivo, aparece la pantalla de "GAME O
 
 ## Recursos multimedia ##
 
-**Imágenes**
+### Imágenes
 
+[Pantalla inicio](imagenes/Captura%20de%20pantalla%20(118).png)
+[Fondo](imagenes/Captura%20de%20pantalla%20(126).png)
+[Payaso](imagenes/payaso.png)
+[Mira](imagenes/mira-Photoroom.png)
+[Fondo final](imagenes/ganar.webp)
 Pantalla de inicio.
 Fondo del juego.
 Fondo de victoria.
