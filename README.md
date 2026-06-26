@@ -58,41 +58,41 @@ Interactividad mediante estados, retroalimentación audiovisual y respuesta inme
 ## Sistema computacional ##
 
 **Inputs**
-Posición del mouse.
-Click del mouse.
-Tiempo transcurrido.
+- Posición del mouse.
+- Click del mouse.
+- Tiempo transcurrido.
 
 **Procesos**
-Movimiento del payaso.
-Detección de impactos.
-Cálculo del tiempo.
-Reproducción de sonidos.
-Reproducción del video.
-Cambio entre estados.
+- Movimiento del payaso.
+- Detección de impactos.
+- Cálculo del tiempo.
+- Reproducción de sonidos.
+- Reproducción del video.
+- Cambio entre estados.
 
 **Estados**
-Pantalla de inicio.
-Juego.
-Pantalla de victoria.
-Pantalla de derrota.
+- Pantalla de inicio.
+- Juego.
+- Pantalla de victoria.
+- Pantalla de derrota.
 
 **Eventos**
-Click para comenzar.
-Disparo.
-Impacto en la cabeza.
-Fin del tiempo.
-Fin del video.
-Botón "Jugar de nuevo".
+- Click para comenzar.
+- Disparo.
+- Impacto en la cabeza.
+- Fin del tiempo.
+- Fin del video.
+- Botón "Jugar de nuevo".
 
 **Outputs**
-Cambio de imágenes.
-Animaciones.
-Sonidos.
-Video.
-Mensajes de victoria y derrota.
+- Cambio de imágenes.
+- Animaciones.
+- Sonidos.
+- Video.
+- Mensajes de victoria y derrota.
 
 ## Explicación de la interacción ##
-El usuario inicia el juego con un clic.
+El usuario inicia el juego con un clic en cualquier parte de la pantalla.
 Luego controla una mira utilizando el mouse y debe disparar únicamente a la cabeza del payaso antes de que el temporizador llegue a cero.
 Si acierta, se reproduce un video de victoria y posteriormente aparece la pantalla final con un mensaje de "YOU WIN".
 Si el tiempo termina antes de lograr el objetivo, aparece la pantalla de "GAME OVER".
