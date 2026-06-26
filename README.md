@@ -150,9 +150,9 @@ Recompensar al jugador cuando gana.
 
 **Capturas del proceso**
 
-![Pantalla de inicio](imagenes/Captura de pantalla (124).png)
+![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(124).png)
 
-![Pantalla del juego](imagenes/Captura de pantalla (125).png)
+![Pantalla del juego](imagenes/Captura%20de%20pantalla%20(125).png)
 
 ## Codigos que mas me cuestan entender 
 for (let i = 0; i < 120; i++) {
