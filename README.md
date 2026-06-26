@@ -254,6 +254,12 @@ Mi principal dificultad fue integrar correctamente el video con los distintos es
 Este proyecto me permitió comprender mejor cómo organizar un programa utilizando funciones y cómo construir una experiencia interactiva completa,
 Aunque aun me cuestan entender principalmente cuando hay muchos valores.
 
+## Diagrama
+
+[link](https://www.figma.com/board/9w5QpXXgch7jRdzYTNAs45/Sin-t%C3%ADtulo?node-id=0-1&p=f&t=QUes9udHOnNf3MFr-0)
+
+![Pantalla de inicio](imagenes/diagrama.jpeg)
+
 ## Enlaces ##
 
 **Proyecto p5.js (ejecutable):**
