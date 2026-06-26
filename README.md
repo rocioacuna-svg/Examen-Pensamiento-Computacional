@@ -3,15 +3,10 @@
 
 ![Pantalla de inicio](imagenes/Captura%20de%20pantalla%20(118).png)
 
-Este mini juego interactivo desarrollado en p5.js donde el jugador debe eliminar a un payaso antes de que se acabe el tiempo (20 segundos).
+Este mini juego interactivo desarrollado en p5.js donde el jugador debe eliminar a un payaso extraterrestre antes de que se acabe el tiempo (20 segundos).
 El objetivo es dispararle únicamente en la cabeza mientras el personaje se mueve constantemente por la pantalla.
 
-El proyecto utiliza imágenes, sonido y video para crear una experiencia inmersiva inspirada en el diseño de videojuegos de terror y supervivencia.
-
-Descripción objetiva
-¿Qué es el proyecto?
-
-Es un videojuego interactivo desarrollado en p5.js.
+El proyecto utiliza imágenes, sonido y video para crear una experiencia inmersiva inspirada en el diseño de videojuegos de terror y supervivencia
 
 **¿Qué se ve en pantalla?**
 - Pantalla de inicio.
