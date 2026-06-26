@@ -39,7 +39,7 @@ El proyecto utiliza imágenes, sonido y video para crear una experiencia inmersi
 - Video de victoria.
 - Cambio entre pantallas.
 - Temporizador.
-  
+(La mayoria de las imagenes las saque de videos de youtube)
 **Descripción conceptual :**
 Crear una experiencia donde el jugador deba reaccionar rápidamente para eliminar un objetivo antes de que termine el tiempo, utilizando una estética inspirada en el terror y los videojuegos arcade.
 
